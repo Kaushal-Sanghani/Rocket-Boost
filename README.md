@@ -31,19 +31,6 @@ A 3D rocket landing game developed using **Unity 6 and C#**. The player controls
 * Particle System
 * Audio System
 
-## Project Structure
-
-Assets/
-├── Scenes/
-├── Script/
-├── Audio/
-└── Other Assets/
-
-Packages/
-ProjectSettings/
-README.md
-.gitignore
-
 ## Objective
 
 To develop an interactive 3D game and gain practical experience in **Unity, C# programming, physics, collision detection, scene management, and game design**.
