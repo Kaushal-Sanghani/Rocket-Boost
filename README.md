@@ -1,12 +1,8 @@
 # 🚀 Rocket Boost
 
-**🎮 [PLAY ROCKET BOOST LIVE](YOUR_LIVE_GAME_URL)**
+**🎮 [PLAY ROCKET BOOST LIVE]( https://kaushal-sanghani.github.io/Rocket-Boost/)**
 
 Rocket Boost is a 3D rocket landing game developed using Unity 6. Control a rocket, avoid obstacles, and safely reach the landing pad to complete each level.
-
-## 🎮 Play the Game
-
-👉 **Live Demo:** [Click here to play Rocket Boost](YOUR_LIVE_GAME_URL)
 
 ## 📸 Game Preview
 
